@@ -13,7 +13,7 @@ When this code is run the variable `b` is set equal to 2 if `a` is equal to 1.  
 
 The negation of a logical proposition is a proposition that is always and only true when the original logical proposition is false.  We can express this idea using mathematical symbols as follows:
 
-![](https://render.githubusercontent.com/render/math?math=\neg(a=1)\leftrightarrow\a\ne1)
+![](https://render.githubusercontent.com/render/math?math=\neg(a=1)\iff\a\ne1)
 
 In words, this set of symbols tells us that the negation of a=1 is true if and only if a is not equal to 1.
 
